@@ -1,3 +1,4 @@
-# jadwal_sholat_tv
+# TV Prayer Schedule
 
-A new Flutter project.
+Language: ## FLutter Base
+Don't forget to mention our organization if you guys use it :)
