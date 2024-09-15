@@ -1,0 +1,28 @@
+name: jadwal_sholat_tv
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=3.3.1 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_dotenv: ^5.1.0
+  http: ^1.2.2
+  intl: ^0.19.0
+  marquee: ^2.2.3
+  marquee_list: ^1.0.0
+  text_marquee: ^0.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - .env
+    - assets/images/
